@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Tamang change lang
+          Welcome to AWS
         </p>
       </header>
     </div>
